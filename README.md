@@ -1,2 +1,2 @@
 # JenkinksLab5
-lab with MASTER branches
+lab with DEV Bbranches
