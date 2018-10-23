@@ -1,2 +1,2 @@
 # JenkinksLab5
-lab with DEV Bbranches
+lab with REL 1.0 branches
