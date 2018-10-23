@@ -1,2 +1,2 @@
 # JenkinksLab5
-lab with branches
+lab with MASTER branches
